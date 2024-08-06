@@ -37,3 +37,11 @@
   ### Running the Application
 
   After completing the setup, you should be able to access the frontend at [http://localhost:3000](http://localhost:3000).
+
+  ### Video demo
+
+  Here is a video demo of Enfra
+
+```sh
+  https://www.youtube.com/watch?v=rOtl0IIPvfo
+```
